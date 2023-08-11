@@ -11,8 +11,8 @@ Incorporated support for background and foreground execution of commands along w
 - and again show another prompt to the user to take another command and repeat
 
  ### Tokanize
- -this will seperate the line stream into different words in string array.
- -returns tokens array
+ - this will seperate the line stream into different words in string array.
+ - returns tokens array
 
  ### Fork
  - fork will create a new child process, it will have the exact same memory image as the parent-child process
